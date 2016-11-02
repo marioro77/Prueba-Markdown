@@ -41,6 +41,7 @@
 
 * \(teoría\) 
 
+* (teoria)
 
 ## ACTIVIDADES
 

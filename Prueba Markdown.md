@@ -51,4 +51,7 @@
 
 * Preguntas con respuestas cortas
 * Escucha y análisis
+*-----------------------*
 
+* 1) SONIDO PREGRABADO EN TIEMPO DIFERIDO 
+* PROCESAMIENTO EN TIEMPO DIFERIDO

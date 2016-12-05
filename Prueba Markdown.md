@@ -182,3 +182,64 @@ Fig. 1.15: diagrama de curvas isofónicas (ISO 226:2003)
 
 La frecuencia de 1000 Hz ha sido elegida como frecuencia de referencia. En esta frecuencia, phon y dB coinciden (100 dB corresponden a la sensación de 100 phon, 80 dB a 80 phon, etc). Si seguimos la curva isofónica a 60 phon, por ejemplo, veremos que a 1000 Hz son necesarios 60 dB, pero entre más bajemos en frecuencia, más dB serán necesarios para que un oyente medio tenga la misma sensación sonora. 
 
+### FORMA DE ONDA
+ 
+El tercer parámetro fundamental del sonido desde el punto de vista perceptivo es el **timbre**. Con este término nos referimos globalmente a las diversas características que nos permiten distinguir, por ejemplo, una nota emitida por una flauta de una (con la misma frecuencia y la misma amplitud) emitida por un violín. Una de las características más importantes para la definición del timbre es la **forma de onda**. 
+Ahondaremos en las cuestiones generales relacionadas con el timbre en el capítulo 2 y en los sucesivos; por ahora solo describiremos las principales formas de onda utilizadas en algunas técnicas de síntesis. 
+
+#### EJEMPLO INTERACTIVO 1C • TIMBRE
+
+### LA SINUSOIDE
+
+Los sonidos que hemos utilizado en el ejemplo anterior eran sonidos sinusoidales; la forma de onda era, por lo tanto, una sinusoide (fig. 1.16).
+
+Fig. 1.16: la sinusoide
+
+La **sinusoide** es la forma de onda más simple y más importante que utilizaremos. 
+Como veremos en el capítulo 1 de la parte práctica, para generar una sinusoide en el computador usaremos un **oscilador**, es decir, un mecanismo electroacústico que simula un computador, que puede generar señales con específicas formas de onda. 
+La sinusoide es la componente fundamental con la cual es posible construir cualquier otra forma de onda (así como con los tres colores fundamentales es posible crear cualquier otro color), y es la única forma de onda que contiene una sola frecuencia; todas las otras formas de onda contienen más de una frecuencia y, por este motivo, pueden ser descompuestas en una serie de sinusoides, cada una de las cuales contiene una sola frecuencia (ver el parágrafo 2.1 dedicado al espectro sonoro). 
+La sinusoide recibe tal nombre porque es la representación gráfica de la función trigonométrica seno. Una forma de onda “gemela” que auditivamente es indistinguible de la sinusoide es la **cosinusoide**, siendo esta la representación gráfica de la función coseno (fig. 1.17). 
+
+Fig. 1.17: cosinusoide
+
+Como podemos ver, la única diferencia entre la sinusoide y la cosinusoide es que la primera incia en el punto de amplitud = 0, mientras que la segunda inicia en el punto de máxima amplitud positiva. 
+Profundizaremos en todos estos argumentos en el capítulo 2, dedicado a la síntesis aditiva. 
+
+### OTRAS FORMAS DE ONDA
+
+Las partículas de aire, naturalmente, pueden ser perturbadas por un sonido diferente del sinusoidal: en este caso, la alternancia de compresión y expansión sigue una ruta diferente, esto es, cambia la forma de onda que resulta de tal alternancia. 
+En la figura 1.18 vemos cuatro ejemplos de formas de onda “clasicas” usadas en muchos sintetizadores: en A una onda sinusoidal; en B una onda cuadrada; en C una onda rampa o diente de sierra, y en D una onda triangular. 
+
+Fig. 1.18: las cuatro formas de onda “clásicas”
+
+Estas cuatro formas de onda producirán cuatro timbres diferentes. Escuchémolos en el ejemplo interactivo 1D. 
+  
+### EJEMPLO INTERACTIVO 1D • FORMAS DE ONDA
+
+La onda cuadrada puede convertirse en una onda “rectangular” cuando cambia la razón entre la parte positiva y la parte negativa de la misma: en el caso de la onda cuadrada, de hecho, la mitad del ciclo es negativa y la otra mitad es positiva. 
+Si la parte positiva del ciclo fuera ¼ y la negativa ¾, la onda sería rectangular; asimismo, es posible imaginar infinitos cocientes entre las dos partes: 1/5, 1/10, 1/100...
+La razón entre las dos partes se llama **ciclo de trabajo** (duty cucle) y generalmente se indica con un número comprendido entre 0 y 1: cuando el ciclo de trabajo equivale a 0.5, la onda resultante es cuadrada, cuando equivale a 0.25, se forma una fase positiva de ¼ y una negativa de ¾, y así sucesivamente (fig. 1.19). 
+
+ Fig. 1.19: variación del ciclo de trabajo en la onda cuadrada
+
+#### EJEMPLO INTERACTIVO 1E • DUTY CICLE                                                                                                           
+
+### ONDAS BIPOLARES Y UNIPOLARES
+
+Todas las formas de onda que hemos visto hasta ahora tienen una característica en común: son **ondas bipolares**, o sea que tienen una fase positiva (por encima de la línea del 0, correspondiente a la compresión de las partículas) y una negativa (por debajo de la línea del 0, correspondiente a la expansión de las partículas). 
+Pero también existen las **ondas unipolares**, que se encuentran completamente por encima (o por debajo) de la línea del 0 ( fig. 1.20) .
+
+Fig. 1.20: forma de onda bipolar y unipolar. 
+
+Las formas de onda utilizadas para producir sonidos, generalmente son bipolares, porque deben alternar una fase de compresión del aire con una de expansión. Las formas de onda unipolares, en cambio, no sirven para generar un sonido audible, sino que, por lo general, se utilizan para modificar cualquier parámetro del sonido.  
+Ahondaremos en el argumento en el capítulo 4.  
+
+#### DETALLES TECNICOS • USO DE LOGARITMOS EN EL CÁLCULO DE LA PRESIÓN SONORA EN dB   
+
+
+
+
+
+
+
+

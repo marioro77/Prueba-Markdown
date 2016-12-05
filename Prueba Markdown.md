@@ -191,7 +191,7 @@ Ahondaremos en las cuestiones generales relacionadas con el timbre en el capítu
 
 ### LA SINUSOIDE
 
-Los sonidos que hemos utilizado en el ejemplo anterior eran sonidos sinusoidales; la forma de onda era, por lo tanto, una sinusoide (fig. 1.16).
+Los sonidos que hemos utilizado en el ejemplo anterior eran sonidos sinusoidales; su forma de onda era, por lo tanto, una sinusoide (fig. 1.16).
 
 Fig. 1.16: la sinusoide
 

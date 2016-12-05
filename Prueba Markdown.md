@@ -140,21 +140,21 @@ Como ya hemos dicho, el decibel no es una cantidad absoluta, sino la expresión 
 
 El siguiente listado ilustra, de manera aproximada, los niveles de presión sonora en dB de algunos fenómenos (medidos a 1 metro de distancia). Como se puede notar en este caso, el valor de 0 dB no representa el nivel de presión máxima (lo que sí ocurre en el caso del audio digital, en el cual los valores de amplitud por debajo del valor máximo se representan con valores negativos: -10 dB, -20 dB, etc); por el contrario, el 0 dB se indica como punto de referencia para referirse  “al sonido más débil perceptible”,  siendo todos los demás valores positivos. 
 
-140	umbral del dolor
-130	jet en fase de despegue
-120 concierto de rock
-110 *fff* de orquesta sinfónica
-100 camión
-90	calle ruidosa
-80	tienda
-70 	oficina
-60 	conversación normal
-50 	casa silenciosa
-40	noche en el campo
-30	crujido de hojas
-20	viento	
-10	viento débil
-0	el sonido más débil perceptible
++140	umbral del dolor
++130	jet en fase de despegue
++120 concierto de rock
++110 *fff* de orquesta sinfónica
++100 camión
++90	calle ruidosa
++80	tienda
++70 	oficina
++60 	conversación normal
++50 	casa silenciosa
++40	noche en el campo
++30	crujido de hojas
++20	viento	
++10	viento débil
++0	el sonido más débil perceptible
 
 ####   EJEMPLO INTERACTIVO 1B • AMPLITUD
 
@@ -168,4 +168,3 @@ Fig. 1.15: diagrama de curvas isofónicas (ISO 226:2003)
 
 La frecuencia de 1000 Hz ha sido elegida como frecuencia de referencia. En esta frecuencia, phon y dB coinciden (100 dB corresponden a la sensación de 100 phon, 80 dB a 80 phon, etc). Si seguimos la curva isofónica a 60 phon, por ejemplo, veremos que a 1000 Hz son necesarios 60 dB, pero entre más bajemos en frecuencia, más dB serán necesarios para que un oyente medio tenga la misma sensación sonora. 
 
- 

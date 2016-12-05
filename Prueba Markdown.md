@@ -144,8 +144,8 @@ El siguiente listado ilustra, de manera aproximada, los niveles de presión sono
 + 130	jet en fase de despegue
 + 120 concierto de rock
 + 110 *fff* de orquesta sinfónica
-+100 camión
-+90	calle ruidosa
++ 100 camión
++ 90	calle ruidosa
 +80	tienda
 +70 	oficina
 +60 	conversación normal

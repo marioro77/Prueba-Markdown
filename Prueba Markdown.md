@@ -140,21 +140,23 @@ Como ya hemos dicho, el decibel no es una cantidad absoluta, sino la expresión 
 
 El siguiente listado ilustra, de manera aproximada, los niveles de presión sonora en dB de algunos fenómenos (medidos a 1 metro de distancia). Como se puede notar en este caso, el valor de 0 dB no representa el nivel de presión máxima (lo que sí ocurre en el caso del audio digital, en el cual los valores de amplitud por debajo del valor máximo se representan con valores negativos: -10 dB, -20 dB, etc); por el contrario, el 0 dB se indica como punto de referencia para referirse  “al sonido más débil perceptible”,  siendo todos los demás valores positivos. 
 
-+ 140	umbral del dolor
-+ 130	jet en fase de despegue
-+ 120 concierto de rock
-+ 110 *fff* de orquesta sinfónica
-+ 100 camión
-+ 90	calle ruidosa
-+80	tienda
-+70 	oficina
-+60 	conversación normal
-+50 	casa silenciosa
-+40	noche en el campo
-+30	crujido de hojas
-+20	viento	
-+10	viento débil
-+0	el sonido más débil perceptible
+140	umbral del dolor
+
+130	jet en fase de despegue
+
+120 concierto de rock
+110 *fff* de orquesta sinfónica
+100 camión
+90	calle ruidosa
+80	tienda
+70 	oficina
+60 	conversación normal
+50 	casa silenciosa
+40	noche en el campo
+30	crujido de hojas
+20	viento	
+10	viento débil
+0	el sonido más débil perceptible
 
 ####   EJEMPLO INTERACTIVO 1B • AMPLITUD
 

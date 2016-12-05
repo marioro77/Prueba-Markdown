@@ -57,9 +57,9 @@
 
 La frecuencia, la amplitud y la forma de onda son tres parámetros fundamentales del sonido. Cada uno de estos parámetros influye en la percepción sonora del oyente, en particular: 
 
-* a)	en la posibilidad de distinguir un sonido grave de uno agudo (frecuencia).
-* b)	en la posibilidad de distinguir un sonido de fuerte intensidad de uno de intensidad menor (amplitud).
-* c)	en la posibilidad de distinguir timbres diferentes (forma de onda) 
+	a)	en la posibilidad de distinguir un sonido grave de uno agudo (frecuencia).
+	b)	en la posibilidad de distinguir un sonido de fuerte intensidad de uno de intensidad menor (amplitud).
+	c)	en la posibilidad de distinguir timbres diferentes (forma de onda) 
 
 Veamos una tabla (extraída de Bianchini, R., 2003) de las correspondencias entre características físicas del sonido, parámetros musicales y sensaciones sonoras. 
 
